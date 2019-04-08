@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\Administrator\Desktop\cmder\bin;C:\Users\Administrator\Desktop\cmder\vendor\bin;C:\Users\Administrator\Desktop\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Users\Administrator\Desktop\cmder\vendor\conemu-maximus5;C:\Users\Administrator\Desktop\cmder\vendor\conemu-maximus5\ConEmu;C:\Python37-32\Scripts\;C:\Python37-32\;C:\Ruby24-x64\bin;C:\PROGRA~1\MATROX~1\System64;C:\PROGRA~1\MATROX~1\System32;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Yarn\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Local\Yarn\bin;C:\Program Files\Bandizip\;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Users\Administrator\Desktop\cmder\vendor\git-for-windows\cmd;C:\Users\Administrator\Desktop\cmder\vendor\git-for-windows\mingw64\bin;C:\Users\Administrator\Desktop\cmder\vendor\git-for-windows\usr\bin;C:\Users\Administrator\Desktop\cmder
+
+Yarn version: 
+  1.7.0
+
+Node version: 
+  10.15.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:131036:13)
+      at Interface.emit (events.js:189:13)
+      at Interface._ttyWrite (readline.js:783:16)
+      at ReadStream.onkeypress (readline.js:168:10)
+      at ReadStream.emit (events.js:189:13)
+      at emitKeys (internal/readline.js:424:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1022:36)
+      at ReadStream.emit (events.js:189:13)
+      at addChunk (_stream_readable.js:284:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
